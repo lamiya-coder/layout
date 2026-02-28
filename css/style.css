@@ -1,0 +1,39 @@
+*{
+    margin: 0 ;
+    padding:0 ;
+}
+.mi{
+    border-bottom: 3px solid black;
+    width: 100%;
+    margin: 0 auto;
+    padding: 20px 0;
+    text-align: center;
+}
+
+h1{
+    background-color: rgba(96, 243, 152, 0.804);
+}
+
+.m{
+
+    border-bottom: 3px solid black;
+    margin: 0 auto;
+    padding: 20px 0;
+    text-align: center;
+    float:left;
+    height: 200px;
+    line-height: 200px;
+}
+
+.i{
+     width: 30%;
+     background-color:aquamarine;
+}
+
+.n{
+    
+     width: 70%;
+     background-color: rgb(18, 226, 139);
+}
+
+
